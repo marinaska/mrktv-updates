@@ -5,9 +5,11 @@ Instaladores assinados do MRKTV para Android TV e Google TV (Android 8 ou superi
 ## Instalar
 
 1. Na TV ou Mi Box, abra o Downloader by AFTVnews.
-2. Baixe o [MRKTV.apk mais recente](https://github.com/marinaska/mrktv-updates/releases/latest/download/MRKTV.apk).
+2. No campo inicial, digite **1511773** e selecione **Go/Ir**. Aguarde o redirecionamento e o download do APK.
 3. Autorize o Downloader a instalar o aplicativo quando o Android solicitar.
 4. Abra o MRKTV e escolha entrar com sua conta do fornecedor ou adicionar uma lista M3U.
+
+Link alternativo: [MRKTV.apk mais recente](https://github.com/marinaska/mrktv-updates/releases/latest/download/MRKTV.apk). O código [1511773](https://go.aftvnews.com/1511773+) aponta para esse mesmo endereço, que acompanha as novas versões.
 
 ## Atualizações
 
